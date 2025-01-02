@@ -1,0 +1,68 @@
+---
+title: "R Intro (Winter 2025 / RSM456)"
+---
+
+R is an open-source programming language for statistical computing and graphics. R is extensible, and has a large collection of high-quality user contributed packages that provides easy tools for common data analysis tasks. This 4-session workshop will introduce you the basics of R programming and data analysis.
+
+------------------------------------------------------------------------
+
+### What To Prepare
+
+Please install [R](https://www.r-project.org/) and [RStudio Desktop](https://posit.co/download/rstudio-desktop/) before the first session.
+
+If you encounter technical difficulties installing the software, you can instead create a free [RStudio Cloud](https://posit.cloud/) account so you can run R in the cloud via your browser.
+
+An alternative to RStudio Cloud is the UofT JupyterHub/RStudio system. Go to its [home page](https://datatools.utoronto.ca/), choose the *RStudio* option, and click *LOG IN* button. You will need your UTORid to login.
+
+------------------------------------------------------------------------
+
+### Session 1 Basics
+
+-   [Slides](r_intro_part1.pdf)
+    -   Navigate RStudio
+    -   Install and load R packages
+    -   Load/import a tabular dataset into a dataframer/tibble
+    -   R basic syntax (data and programming structures)
+-   Data
+    -   Housing price ([hprice.csv](data/hprice.csv))
+    -   Country risk ([country_risk.xlsx](data/country_risk.xlsx))
+-   Code
+    -   Get started (We will code this one together)
+    -   R basic data structures (R Notebook [![](colab-badge.svg)](https://colab.research.google.com/github/tdmdal/r-intro-2025-winter/blob/master/docs/R_Basic_Data_Structures.ipynb))
+    -   R basic programming structures (R Notebook [![](colab-badge.svg)](https://colab.research.google.com/github/tdmdal/r-intro-2025-winter/blob/master/docs/R_Basic_Programming_Structures.ipynb))
+-   Reading list
+    -   [Hands-on Programming with R](https://rstudio-education.github.io/hopr/) (Chapter 1 to 3; Chapter 4 to 7, 9 and 11; Appendix A, B and D)
+
+### Session 2 Descriptive Statistics, T-test, and Linear Regression
+
+-   *Coming Soon*
+
+### Session 3 K-means Clustering, and Principal Components Analysis
+
+-   *Coming Soon*
+
+### Session 4 Logistic Regression
+
+-   *Coming Soon*
+
+------------------------------------------------------------------------
+
+### Resources
+
+-   From Zero to Hero
+    -   Step 1: [Hands-on Programming with R](https://rstudio-education.github.io/hopr/) (beginner level; learn R programming basics.)
+    -   Step 2: [R for Data Science](https://r4ds.hadley.nz/) (intermediate level; learn to manipulate, analyze and visualize data using R's Tidyverse packages.)
+    -   Step 3: [Advanced R](https://adv-r.hadley.nz/) (advanced level; learn to master R.)
+-   Other Resources
+    -   [A Short R Tutorial](https://grodri.github.io/R/) by Germán Rodríguez
+    -   [R for Reproducible Scientific Analysis](https://swcarpentry.github.io/r-novice-gapminder/) (from [software carpentry](https://software-carpentry.org/))
+    -   [Programming with R](https://swcarpentry.github.io/r-novice-inflammation/) (from [software carpentry](https://software-carpentry.org/))
+    -   [R Graphics Cookbook](https://r-graphics.org/)
+    -   [ggplot2: Elegant Graphics for Data Analysis](https://ggplot2-book.org/)
+    -   [The R Graph Gallery](https://www.r-graph-gallery.com/) (R graph samples with code)
+    -   [R Cheat Sheets](https://posit.co/resources/cheatsheets/) (cheat sheets for many popular R packages)
+    -   [DoSStoolkit](https://dosstoolkit.com/) (self-paced interactive modules to help you learn and use R from Uoft Dept. of Statistical Science)
+
+------------------------------------------------------------------------
+
+Back to [TDMDAL Computing Page](https://tdmdal.github.io/)
