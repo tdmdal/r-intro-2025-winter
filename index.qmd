@@ -55,7 +55,10 @@ An alternative to RStudio Cloud is the UofT JupyterHub/RStudio system. Go to its
 
 ### Session 4 Logistic Regression
 
--   *Coming Soon*
+-   [Slides](r_intro_part4.pdf)
+    -   Logistic regression (`glm()`, `predict()`, interpret logistic regression result)
+-   Code
+    -   Logistic regression (R Notebook [![](colab-badge.svg)](https://colab.research.google.com/github/tdmdal/r-intro-2025-winter/blob/master/docs/logistic_regression.ipynb))
 
 ------------------------------------------------------------------------
 
